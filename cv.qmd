@@ -1,0 +1,65 @@
+---
+title: "Max Smith"
+format:
+    html:
+        toc: false
+---
+
+:::{.contact-info}
+Seattle, WA | (206) 604 8688 | max.smith2357@gmail.com
+[linkedIn](https://www.linkedin.com/in/max-smith-605352243/) | [Github](https://github.com/mxsmi)
+:::
+
+## Professional Summary
+Clinical research data professional with 3+ years of experience managing complex datasets for hematology and transplant studies. Expertise in data pipeline development, statistical analysis, and regulatory compliance. Proficient in Python, R, SQL, and clinical database systems (EPIC, REDCap). Proven track record of improving data quality, automating workflows, and collaborating with multidisciplinary research teams.
+
+## Technical skills
+- **Programming & Analysis:** Python, R, SQL, Excel 
+- **Data Tools:** Git, REDCap, EPIC, Tableau/R Shiny Apps
+- **Statistical Methods:** Clinical trial analysis, survival analysis, data visualization  
+- **Databases:** Relational databases, SQL queries, data warehousing  
+- **Domain Knowledge:** Clinical research protocols, GCP/HIPAA compliance, medical coding and terminology
+
+## Professional Experience
+
+### **Data Coordinator 2** | Fred Hutchinson Cancer Center | Seattle, WA
+October 2023 – Present*
+
+- Manage comprehensive data operations for multiple clinical research studies in myeloid disorders and bone marrow transplant, ensuring regulatory compliance and data integrity across 500+ patient records
+- Develop automated data pipelines using Python and SQL to extract, transform, and load clinical data from databases, reducing manual processing time
+- Perform statistical analyses using R and Python to generate study metrics, enrollment reports, and efficacy endpoints for principal investigators and sponsors
+- Design and maintain database systems using SQL for efficient data retrieval, query resolution, and quality control audits
+- Conduct data cleaning, validation, and outlier detection using R, identifying and resolving all data discrepancies before database lock
+- Serve as primary liaison between clinical teams, investigators, and data management staff, facilitating protocol compliance and timely data delivery
+- Create automated reporting workflows that generate monthly enrollment metrics and safety reports, improving reporting efficiency.
+- Train and mentor new coordinators on study procedures, database systems (REDCap, EPIC), and technical tools (R, Python, SQL)
+
+### **Practice Support Assistant** | Davis Wright Tremaine LLP | Seattle, WA
+August 2021 – July 2022
+
+- Managed FTP systems and secure file transfer protocols for confidential client data transmission, ensuring data security and chain of custody compliance
+- Streamlined data processing workflows for litigation support, reducing case preparation time
+- Developed process documentation and assisted with monthly billing report generation for legal teams
+
+### **Educator** | Art of Problem Solving | Remote
+June 2019 – May 2022*
+
+- Advanced through multiple instructional roles (Grader → Releaser → Helper → Assistant) based on performance and accuracy
+- Conducted quality assurance reviews of educational content, ensuring consistency and accuracy across teaching team
+- Provided real-time tutoring support during live online classes, supporting student engagement and problem-solving skills
+
+## Projects
+
+### TCRconvertR / TCRconvert (GitHub links: [TCRconvertR](https://github.com/seshadrilab/tcrconvertr) / [TCRconvert](https://github.com/seshadrilab/tcrconvert))
+
+- Co-developed CRAN R package (TCRconvertR) and Python Module (TCRconvert). These libraries convert V, D, J, and/or C gene names between the 10X Genomics, Adaptive Biotechnologies, and IMGT nomenclatures. IMGT is the AIRR Community–recommended standard. TCRconvert supports alpha-beta and gamma-delta T cell receptors (TCRs) for human, mouse, and rhesus macaque. TCRconvert can be used as a Python library or on the command line.
+
+## Publications
+
+## Education
+
+### Bachelor of Science in Mathematics | University of Washington
+Jan 2017 - June 2019
+
+## Certifications
+15+ Certifications in Data Science with Python, R, and SQL from Johns Hopkins University, Michigan University, and IBM. See my LinkedIn profile for a full list ([linkedIn](https://www.linkedin.com/in/max-smith-605352243/))
