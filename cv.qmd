@@ -1,17 +1,21 @@
 ---
 title: "Max Smith"
 format:
-    html:
+    typst:
         toc: false
 ---
 
 ::: contact-info
-Seattle, WA \| (206) 604 8688 \| max.smith2357\@gmail.com [linkedIn](https://www.linkedin.com/in/max-smith-605352243/) \| [Github](https://github.com/mxsmi)
+Seattle, WA \| (206) 604 8688 \| max.smith2357\@gmail.com \|
+
+LinkedIn: [https://www.linkedin.com/in/max-smith-605352243/](https://www.linkedin.com/in/max-smith-605352243/)
+
+GitHub: [https://github.com/mxsmi](https://github.com/mxsmi)
 :::
 
 ## Professional Summary
 
-Clinical research data professional with 3+ years of experience managing complex datasets for hematology and transplant studies. Expertise in data pipeline development, statistical analysis, and regulatory compliance. Proficient in Python, R, SQL, and clinical database systems (EPIC, REDCap). Proven track record of improving data quality, automating workflows, and collaborating with multidisciplinary research teams.
+Clinical research data professional with 3+ years of experience managing complex datasets for hematology and transplant studies. Expertise in data pipeline development, data analysis, and regulatory compliance. Proficient in Python, R, SQL, and clinical database systems (EPIC, REDCap). Proven track record of improving data quality, automating workflows, and collaborating with multidisciplinary research teams.
 
 ## Technical skills
 
@@ -25,7 +29,7 @@ Clinical research data professional with 3+ years of experience managing complex
 
 ### **Data Coordinator 2** \| Fred Hutchinson Cancer Center \| Seattle, WA
 
-October 2023 – Present\*
+October 2023 – Present
 
 -   Manage comprehensive data operations for multiple clinical research studies in myeloid disorders and bone marrow transplant, ensuring regulatory compliance and data integrity across 500+ patient records
 -   Develop automated data pipelines using Python and SQL to extract, transform, and load clinical data from databases, reducing manual processing time
@@ -46,7 +50,7 @@ August 2021 – July 2022
 
 ### **Educator** \| Art of Problem Solving \| Remote
 
-June 2019 – May 2022\*
+June 2019 – May 2022
 
 -   Advanced through multiple instructional roles (Grader → Releaser → Helper → Assistant) based on performance and accuracy
 -   Conducted quality assurance reviews of educational content, ensuring consistency and accuracy across teaching team
@@ -54,17 +58,24 @@ June 2019 – May 2022\*
 
 ## Projects
 
-### TCRconvertR / TCRconvert (GitHub links: [TCRconvertR](https://github.com/seshadrilab/tcrconvertr) / [TCRconvert](https://github.com/seshadrilab/tcrconvert))
+### TCRconvertR / TCRconvert 
+GitHub links: 
+
+TCRconvertR: [https://github.com/seshadrilab/tcrconvertr](https://github.com/seshadrilab/tcrconvertr)
+
+TCRconvert: [https://github.com/seshadrilab/tcrconvert](https://github.com/seshadrilab/tcrconvert)
 
 -   Open source contributor to CRAN R package (TCRconvertR) and Python Module (TCRconvert). These libraries convert V, D, J, and/or C gene names between the 10X Genomics, Adaptive Biotechnologies, and IMGT nomenclatures. IMGT is the AIRR Community–recommended standard. TCRconvert supports alpha-beta and gamma-delta T cell receptors (TCRs) for human, mouse, and rhesus macaque. TCRconvert can be used as a Python library or on the command line.
 
+- See my GitHub account for a full list of my projects
+
 ## Publications
 
-**The MEASURE Genome Atlas: Acute Myeloid Leukemia at diagnosis and complete remission (2026)**
+1) **The MEASURE Genome Atlas: Acute Myeloid Leukemia at diagnosis and complete remission (2026)**
       
 *Kai Yu, Laura Dillon, Jesse Tettero, Gege Gui, Rasha Al-Ali, Michael Grunwald, Elizabeth Krakow,* *Elizabeth Griffiths, Alexandra Gomez-Arteaga, Rahul Vedula, Melhem Solh, Amandeep Salhotra, Nelli* *Bejanyan, Lori Muffly, Antonio Jimenez-Jimenez, Michael Drazer, Yi-Bin Chen, Aaron Logan,* *Reena Jayani-Kosarzycki, Sophia Balderman, James Blachly, Brian Shaffer, Marc Schwartz,* *Cecilia Yeung, Farah Sahoo, **Max Smith**, Lawrence Druhan, Vanessa Kennedy, Melissa Tjota,* *Sandeep Gurbuxani, Dylan Barfield, Jim Guo, James Han, Jason Hu, Heejon Jo, Videya* *Kudlingar, Wilfred Li, Yutong Qiu, Pratheesh Sathyan, Sean Truong, Severine Catreux, Sam* *Ng, Khai Luong, Yunjiao Zhu, Reem Bahr, Jamie Diemer, Jianqun Kou, Stephanie Bo-Subait,* *Jackie Bjerke, Steven Devine, Bergetta Dietel, Christina Ferrone, Gabrielle Giammarino, Emily* *Heying, Emily Kolb, Danielle O'Donnell Vitali, Wael Saber, Stephen Spellman, Brenna Tesch,* *Jenny Vogel, Stephanie Waldvogel, Syreeta Weatherspoon, Jeffery Auletta, Christopher Hourigan*
 
-**CPX-351 vs. CLAG-M for AML/High-Grade Myeloid Neoplasm (2026)**
+2) **CPX-351 vs. CLAG-M for AML/High-Grade Myeloid Neoplasm (2026)**
         
 *Anna B. Halpern, Megan Othus, Mary-Elizabeth M. Percival, Christina Ghiuzeli,* *Jacob S Appelbaum, Paul C. Hendrie, Ryan D. Cassaday, **Max Smith**, Katherine Russel,* *Bart L. Scott, Jason P. Cooper, Josh R. Veatch, Sioban B. Keel, Vivian G. Oehler,* *Johnnie J. Orozco, Erik L. Kimble, Raya Mawad, and Roland B. Walter.*
 
