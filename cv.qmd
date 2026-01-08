@@ -7,6 +7,10 @@ format:
             - typst-template.typ
 ---
 
+```{=typst}
+#vline()
+```
+
 ::: contact-info
 Seattle, WA \| (206) 604 8688 \| max.smith2357\@gmail.com \|
 
@@ -15,9 +19,17 @@ LinkedIn: <https://www.linkedin.com/in/max-smith-605352243/>
 GitHub: <https://github.com/mxsmi>
 :::
 
+```{=typst}
+#vline()
+```
+
 ## Professional Summary
 
 Clinical research data professional with 3+ years of experience managing complex datasets for hematology and transplant studies. Expertise in data pipeline development, data analysis, and regulatory compliance. Proficient in Python, R, SQL, and clinical database systems (EPIC, REDCap). Proven track record of improving data quality, automating workflows, and collaborating with multidisciplinary research teams.
+
+```{=typst}
+#vline()
+```
 
 ## Technical skills
 
@@ -26,6 +38,10 @@ Clinical research data professional with 3+ years of experience managing complex
 -   **Data Analysis:** Clinical database analysis for QC, summary statistics, data visualization\
 -   **Databases:** Relational databases, SQL queries, data warehousing\
 -   **Domain Knowledge:** Clinical research protocols, GCP/HIPAA compliance, medical coding and terminology
+
+```{=typst}
+#vline()
+```
 
 ## Professional Experience
 
@@ -58,6 +74,10 @@ June 2019 – May 2022
 -   Conducted quality assurance reviews of educational content, ensuring consistency and accuracy across teaching team
 -   Provided real-time tutoring support during live online classes, supporting student engagement and problem-solving skills
 
+```{=typst}
+#vline()
+```
+
 ## Projects
 
 ### TCRconvertR / TCRconvert
@@ -72,6 +92,10 @@ TCRconvert: <https://github.com/seshadrilab/tcrconvert>
 
 See my GitHub account for a full list of my projects
 
+```{=typst}
+#vline()
+```
+
 ## Publications
 
 1)  **The MEASURE Genome Atlas: Acute Myeloid Leukemia at diagnosis and complete remission (2026)**
@@ -82,11 +106,19 @@ See my GitHub account for a full list of my projects
 
 *Anna B. Halpern, Megan Othus, Mary-Elizabeth M. Percival, Christina Ghiuzeli,* *Jacob S Appelbaum, Paul C. Hendrie, Ryan D. Cassaday, **Max Smith**, Katherine Russel,* *Bart L. Scott, Jason P. Cooper, Josh R. Veatch, Sioban B. Keel, Vivian G. Oehler,* *Johnnie J. Orozco, Erik L. Kimble, Raya Mawad, and Roland B. Walter.*
 
+```{=typst}
+#vline()
+```
+
 ## Education
 
 ### Bachelor of Science in Mathematics \| University of Washington
 
 Jan 2017 - June 2019
+
+```{=typst}
+#vline()
+```
 
 ## Certifications
 
