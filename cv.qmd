@@ -33,13 +33,13 @@ Clinical research data professional with 3+ years of experience managing complex
 
 October 2023 – Present
 
--   Manage comprehensive data operations for multiple clinical research studies in myeloid disorders and bone marrow transplant, ensuring regulatory compliance and data integrity across 500+ patient records
--   Develop automated data pipelines using Python and SQL to extract, transform, and load clinical data from databases, reducing manual processing time
+-   Manage comprehensive data operations for 7+ clinical research studies in myeloid disorders and bone marrow transplant, ensuring regulatory compliance and data integrity across 500+ patient records
+-   Develop automated data pipelines using Python and SQL to extract, transform, and report on clinical data from databases, reducing manual processing time
 -   Perform data analyses using R and Python to generate study metrics, enrollment reports, and efficacy endpoints for principal investigators and sponsors
 -   Design and maintain database systems using REDcap for efficient data retrieval, query resolution, and quality control audits
 -   Conduct data cleaning, validation, and outlier detection using R, identifying and resolving all data discrepancies before database lock
 -   Serve as primary liaison between clinical teams, investigators, and data management staff, facilitating protocol compliance and timely data delivery
--   Create automated reporting workflows that generate monthly enrollment metrics and safety reports, improving reporting efficiency.
+-   Create automated reporting workflows that generate monthly enrollment metrics and QC reports, improving efficient and high quality data collection.
 -   Train and mentor new coordinators on study procedures, database systems (REDCap, EPIC), and technical tools (R, Python, SQL)
 
 ### **Practice Support Assistant** \| Davis Wright Tremaine LLP \| Seattle, WA
