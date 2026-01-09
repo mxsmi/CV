@@ -25,7 +25,7 @@ GitHub: <https://github.com/mxsmi>
 
 ## Professional Summary
 
-Clinical research data professional with 3+ years of experience managing complex datasets for hematology and transplant studies. Expertise in data pipeline development, data analysis, and regulatory compliance. Proficient in Python, R, SQL, and clinical database systems (EPIC, REDCap). Proven track record of improving data quality, automating workflows, and collaborating with multidisciplinary research teams.
+Clinical research data professional with 3+ years of experience managing complex datasets for hematology and bone marrow transplant studies. Expertise in data pipeline development, data analysis, and regulatory compliance. Proficient in Python, R, SQL, and clinical database systems (EPIC, REDCap, iMedidata Rave, Veeva, etc). Proven track record of improving data quality, automating workflows, and collaborating with multidisciplinary research teams.
 
 ```{=typst}
 #vline()
@@ -34,9 +34,9 @@ Clinical research data professional with 3+ years of experience managing complex
 ## Technical skills
 
 -   **Programming & Analysis:** Python, R, Git, SQL
--   **Data Tools:** REDCap, EPIC, R Shiny Apps, Excel
+-   **Data Tools:** EPIC, R Shiny Apps, Excel
 -   **Data Analysis:** Clinical database analysis for QC, summary statistics, data visualization\
--   **Databases:** Relational databases, SQL queries, data warehousing\
+-   **Databases:** Relational databases, SQL queries, iMedidata RAVE, REDcap\
 -   **Domain Knowledge:** Clinical research protocols, GCP/HIPAA compliance, medical coding and terminology
 
 ```{=typst}
